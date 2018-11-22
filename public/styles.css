@@ -1,0 +1,9 @@
+li {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.badge {
+    position: absolute;
+    right: 0;
+}
